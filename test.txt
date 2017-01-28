@@ -1,0 +1,3 @@
+blue,, green   
+yellow, light pink, hue,
+purple
